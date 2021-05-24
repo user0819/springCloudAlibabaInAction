@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c61952d-f541-4320-b2c1-797bfb5cbc6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-dubbo-consumer/src/main/java/com/xiang/springclouddubboconsumer/MockHelloServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-cloud-dubbo-consumer/src/main/java/com/xiang/springclouddubboconsumer/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-cloud-dubbo-consumer/src/main/java/com/xiang/springclouddubboconsumer/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-cloud-dubbo-provider/spring-cloud-dubbo-provider-sample/src/main/java/org/xiang/HelloServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-cloud-dubbo-provider/spring-cloud-dubbo-provider-sample/src/main/java/org/xiang/HelloServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-consumer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-consumer/src/main/java/com/xiang/MyApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-consumer/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-api/src/main/java/com/xiang/IHelloService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-api/target/classes/com/xiang/IHelloService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-api/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-api/target/sample-api-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-provider/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-provider/src/main/java/com/xiang/HelloServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-provider/src/main/java/com/xiang/MyMainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-provider/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-provider/target/classes/META-INF/sample-provider.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-provider/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-provider/target/classes/com/xiang/HelloServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-provider/target/classes/com/xiang/MyMainApplication.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="L:\Maven\repository" />
+        <option name="mavenHome" value="L:/Maven" />
+        <option name="userSettingsFile" value="L:\Maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1so5MmQRHOhRPnB6DlwoMtupUD5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-cloud-dubbo-nacos-provider" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35142595" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.xiang" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="spring-boot-dubbo-nacos-provider" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="spring-boot-dubbo-nacos-provider" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-dubbo-nacos-provider-sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.xiang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.xiang.ProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-dubbo-nacos-provider-sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.xiang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.xiang.ProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ProviderApplication" />
+        <item itemvalue="Spring Boot.ProviderApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c61952d-f541-4320-b2c1-797bfb5cbc6c" name="Default Changelist" comment="" />
+      <created>1621526055453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621526055453</updated>
+      <workItem from="1621526056834" duration="5936000" />
+      <workItem from="1621613556226" duration="3023000" />
+      <workItem from="1621778765297" duration="2355000" />
+      <workItem from="1621781199327" duration="799000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2692" y="-267" key="#Project_Structure" timestamp="1621779251901">
+      <screen x="1920" y="-567" width="2560" height="1440" />
+    </state>
+    <state x="2692" y="-267" key="#Project_Structure/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621779251901" />
+    <state x="2788" y="-293" key="#SpringCloudDubboProviderSampleApplication" timestamp="1621779447647">
+      <screen x="1920" y="-567" width="2560" height="1440" />
+    </state>
+    <state x="2788" y="-293" key="#SpringCloudDubboProviderSampleApplication/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621779447647" />
+    <state x="2654" y="-195" width="1099" height="695" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621779455547">
+      <screen x="1920" y="-567" width="2560" height="1440" />
+    </state>
+    <state x="2654" y="-195" width="1099" height="695" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621779455547" />
+    <state x="2961" y="-203" key="#com.intellij.ide.util.MemberChooser" timestamp="1621527999792">
+      <screen x="1920" y="-567" width="2560" height="1440" />
+    </state>
+    <state x="2961" y="-203" key="#com.intellij.ide.util.MemberChooser/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621527999792" />
+    <state x="2898" y="-204" key="#xdebugger.evaluate" timestamp="1621614645118">
+      <screen x="1920" y="-567" width="2560" height="1440" />
+    </state>
+    <state x="2898" y="-204" key="#xdebugger.evaluate/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621614645118" />
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1621776320538">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="0" key="CommitChangelistDialog2/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621776320538" />
+    <state x="606" y="253" key="FileChooserDialogImpl" timestamp="1621781978747">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="606" y="253" key="FileChooserDialogImpl/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621781978747" />
+    <state x="2930" y="-145" key="FileChooserDialogImpl/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621779197169" />
+    <state width="1483" height="302" key="GridCell.Tab.0.bottom" timestamp="1621782000412">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1483" height="302" key="GridCell.Tab.0.bottom/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621782000412" />
+    <state width="2507" height="563" key="GridCell.Tab.0.bottom/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621781138652" />
+    <state width="1483" height="302" key="GridCell.Tab.0.center" timestamp="1621782000412">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1483" height="302" key="GridCell.Tab.0.center/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621782000412" />
+    <state width="2507" height="563" key="GridCell.Tab.0.center/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621781138652" />
+    <state width="1483" height="302" key="GridCell.Tab.0.left" timestamp="1621782000412">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1483" height="302" key="GridCell.Tab.0.left/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621782000412" />
+    <state width="2507" height="563" key="GridCell.Tab.0.left/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621781138651" />
+    <state width="1483" height="302" key="GridCell.Tab.0.right" timestamp="1621782000412">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1483" height="302" key="GridCell.Tab.0.right/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621782000412" />
+    <state width="2507" height="563" key="GridCell.Tab.0.right/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621781138652" />
+    <state width="1483" height="302" key="GridCell.Tab.1.bottom" timestamp="1621782000413">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1483" height="302" key="GridCell.Tab.1.bottom/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621782000413" />
+    <state width="2507" height="26" key="GridCell.Tab.1.bottom/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621781076637" />
+    <state width="1483" height="302" key="GridCell.Tab.1.center" timestamp="1621782000413">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1483" height="302" key="GridCell.Tab.1.center/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621782000413" />
+    <state width="2507" height="26" key="GridCell.Tab.1.center/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621781076637" />
+    <state width="1483" height="302" key="GridCell.Tab.1.left" timestamp="1621782000412">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1483" height="302" key="GridCell.Tab.1.left/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621782000412" />
+    <state width="2507" height="26" key="GridCell.Tab.1.left/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621781076637" />
+    <state width="1483" height="302" key="GridCell.Tab.1.right" timestamp="1621782000413">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1483" height="302" key="GridCell.Tab.1.right/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621782000413" />
+    <state width="2507" height="26" key="GridCell.Tab.1.right/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621781076637" />
+    <state width="1483" height="493" key="GridCell.Tab.2.bottom" timestamp="1621706745764">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1483" height="493" key="GridCell.Tab.2.bottom/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621706745764" />
+    <state width="2507" height="493" key="GridCell.Tab.2.bottom/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621532921068" />
+    <state width="1483" height="493" key="GridCell.Tab.2.center" timestamp="1621706745764">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1483" height="493" key="GridCell.Tab.2.center/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621706745764" />
+    <state width="2507" height="493" key="GridCell.Tab.2.center/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621532921068" />
+    <state width="1483" height="493" key="GridCell.Tab.2.left" timestamp="1621706745764">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1483" height="493" key="GridCell.Tab.2.left/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621706745764" />
+    <state width="2507" height="493" key="GridCell.Tab.2.left/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621532921068" />
+    <state width="1483" height="493" key="GridCell.Tab.2.right" timestamp="1621706745764">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1483" height="493" key="GridCell.Tab.2.right/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621706745764" />
+    <state width="2507" height="493" key="GridCell.Tab.2.right/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621532921068" />
+    <state x="2775" y="-208" key="NewModule_or_Project.wizard" timestamp="1621779199828">
+      <screen x="1920" y="-567" width="2560" height="1440" />
+    </state>
+    <state x="2775" y="-208" key="NewModule_or_Project.wizard/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621779199827" />
+    <state x="2552" y="-372" key="SettingsEditor" timestamp="1621780240787">
+      <screen x="1920" y="-567" width="2560" height="1440" />
+    </state>
+    <state x="2552" y="-372" key="SettingsEditor/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621780240787" />
+    <state x="2827" y="-145" width="901" height="670" key="find.popup" timestamp="1621780968324">
+      <screen x="1920" y="-567" width="2560" height="1440" />
+    </state>
+    <state x="2827" y="-145" width="901" height="670" key="find.popup/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621780968324" />
+    <state x="2401" y="-207" width="1598" height="685" key="new project wizard" timestamp="1621529837798">
+      <screen x="1920" y="-567" width="2560" height="1440" />
+    </state>
+    <state x="2401" y="-207" width="1598" height="685" key="new project wizard/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621529837798" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-cloud-dubbo-provider-sample/src/main/java/org/xiang/HelloServiceImpl.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -12,7 +12,7 @@ public class HelloServiceImpl implements IHelloService {
 
     public String sayHello(String name) {
         String s = String.format("[%s]:Hello, %s", serviceName, name);
-        System.out.println(s);
+            System.out.println(s);
         return s;
     }
 }

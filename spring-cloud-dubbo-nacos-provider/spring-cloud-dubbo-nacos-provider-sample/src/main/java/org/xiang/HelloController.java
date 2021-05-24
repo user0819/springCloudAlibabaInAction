@@ -1,13 +1,14 @@
-package com.xiang.springclouddubboconsumer;
+package org.xiang;
 
 import com.xiang.IHelloService;
-import org.apache.dubbo.config.annotation.Reference;
+import jdk.nashorn.internal.ir.annotations.Reference;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class HelloController {
-    @Reference(mock = "com.xiang.springclouddubboconsumer.MockHelloServiceImpl", cluster = "failfast")
+    @Autowired
     private IHelloService iHelloService;
 
     @GetMapping("/say")

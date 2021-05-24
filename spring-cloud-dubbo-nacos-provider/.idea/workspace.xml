@@ -4,7 +4,27 @@
     <list default="true" id="9c61952d-f541-4320-b2c1-797bfb5cbc6c" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../spring-cloud-dubbo-consumer/src/main/java/com/xiang/springclouddubboconsumer/MockHelloServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring-cloud-dubbo-consumer/src/main/java/com/xiang/springclouddubboconsumer/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-cloud-dubbo-consumer/src/main/java/com/xiang/springclouddubboconsumer/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-dubbo-provider-sample/src/main/java/org/xiang/HelloServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-dubbo-provider-sample/src/main/java/org/xiang/HelloServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-cloud-dubbo-provider/spring-cloud-dubbo-provider-sample/src/main/java/org/xiang/HelloServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-cloud-dubbo-provider/spring-cloud-dubbo-provider-sample/src/main/java/org/xiang/HelloServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-consumer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-consumer/src/main/java/com/xiang/MyApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-consumer/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-api/src/main/java/com/xiang/IHelloService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-api/target/classes/com/xiang/IHelloService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-api/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-api/target/sample-api-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-provider/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-provider/src/main/java/com/xiang/HelloServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-provider/src/main/java/com/xiang/MyMainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-provider/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-provider/target/classes/META-INF/sample-provider.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-provider/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-provider/target/classes/com/xiang/HelloServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-provider/sample-provider/target/classes/com/xiang/MyMainApplication.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +70,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../LeetCoding" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -62,22 +82,22 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="SpringCloudDubboProviderSampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="spring-cloud-dubbo-provider-sample" />
+    <configuration name="ProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-dubbo-nacos-provider-sample" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.xiang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="org.xiang.SpringCloudDubboProviderSampleApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.xiang.ProviderApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.SpringCloudDubboProviderSampleApplication" />
+        <item itemvalue="Spring Boot.ProviderApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -105,6 +125,7 @@
       <updated>1621526055453</updated>
       <workItem from="1621526056834" duration="5936000" />
       <workItem from="1621613556226" duration="3023000" />
+      <workItem from="1621781980111" duration="4863000" />
     </task>
     <servers />
   </component>
@@ -136,80 +157,77 @@
       <screen x="1920" y="-567" width="2560" height="1440" />
     </state>
     <state x="2930" y="-145" key="FileChooserDialogImpl/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621615495942" />
-    <state width="1483" height="493" key="GridCell.Tab.0.bottom" timestamp="1621706745764">
+    <state width="1483" height="212" key="GridCell.Tab.0.bottom" timestamp="1621868305576">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1483" height="493" key="GridCell.Tab.0.bottom/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621706745764" />
+    <state width="1483" height="212" key="GridCell.Tab.0.bottom/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621868305576" />
     <state width="2507" height="493" key="GridCell.Tab.0.bottom/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621614539737" />
-    <state width="1483" height="493" key="GridCell.Tab.0.center" timestamp="1621706745764">
+    <state width="1483" height="212" key="GridCell.Tab.0.center" timestamp="1621868305576">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1483" height="493" key="GridCell.Tab.0.center/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621706745764" />
+    <state width="1483" height="212" key="GridCell.Tab.0.center/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621868305576" />
     <state width="2507" height="493" key="GridCell.Tab.0.center/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621614539736" />
-    <state width="1483" height="493" key="GridCell.Tab.0.left" timestamp="1621706745764">
+    <state width="1483" height="212" key="GridCell.Tab.0.left" timestamp="1621868305576">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1483" height="493" key="GridCell.Tab.0.left/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621706745764" />
+    <state width="1483" height="212" key="GridCell.Tab.0.left/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621868305576" />
     <state width="2507" height="493" key="GridCell.Tab.0.left/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621614539736" />
-    <state width="1483" height="493" key="GridCell.Tab.0.right" timestamp="1621706745764">
+    <state width="1483" height="212" key="GridCell.Tab.0.right" timestamp="1621868305576">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1483" height="493" key="GridCell.Tab.0.right/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621706745764" />
+    <state width="1483" height="212" key="GridCell.Tab.0.right/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621868305576" />
     <state width="2507" height="493" key="GridCell.Tab.0.right/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621614539737" />
-    <state width="1483" height="493" key="GridCell.Tab.1.bottom" timestamp="1621706745764">
+    <state width="1483" height="212" key="GridCell.Tab.1.bottom" timestamp="1621868305576">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1483" height="493" key="GridCell.Tab.1.bottom/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621706745764" />
+    <state width="1483" height="212" key="GridCell.Tab.1.bottom/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621868305576" />
     <state width="2507" height="493" key="GridCell.Tab.1.bottom/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621532921067" />
-    <state width="1483" height="493" key="GridCell.Tab.1.center" timestamp="1621706745764">
+    <state width="1483" height="212" key="GridCell.Tab.1.center" timestamp="1621868305576">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1483" height="493" key="GridCell.Tab.1.center/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621706745764" />
+    <state width="1483" height="212" key="GridCell.Tab.1.center/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621868305576" />
     <state width="2507" height="493" key="GridCell.Tab.1.center/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621532921067" />
-    <state width="1483" height="493" key="GridCell.Tab.1.left" timestamp="1621706745764">
+    <state width="1483" height="212" key="GridCell.Tab.1.left" timestamp="1621868305576">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1483" height="493" key="GridCell.Tab.1.left/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621706745764" />
+    <state width="1483" height="212" key="GridCell.Tab.1.left/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621868305576" />
     <state width="2507" height="493" key="GridCell.Tab.1.left/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621532921067" />
-    <state width="1483" height="493" key="GridCell.Tab.1.right" timestamp="1621706745764">
+    <state width="1483" height="212" key="GridCell.Tab.1.right" timestamp="1621868305576">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1483" height="493" key="GridCell.Tab.1.right/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621706745764" />
+    <state width="1483" height="212" key="GridCell.Tab.1.right/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621868305576" />
     <state width="2507" height="493" key="GridCell.Tab.1.right/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621532921067" />
-    <state width="1483" height="493" key="GridCell.Tab.2.bottom" timestamp="1621706745764">
+    <state width="1483" height="212" key="GridCell.Tab.2.bottom" timestamp="1621868305576">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1483" height="493" key="GridCell.Tab.2.bottom/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621706745764" />
+    <state width="1483" height="212" key="GridCell.Tab.2.bottom/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621868305576" />
     <state width="2507" height="493" key="GridCell.Tab.2.bottom/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621532921068" />
-    <state width="1483" height="493" key="GridCell.Tab.2.center" timestamp="1621706745764">
+    <state width="1483" height="212" key="GridCell.Tab.2.center" timestamp="1621868305576">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1483" height="493" key="GridCell.Tab.2.center/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621706745764" />
+    <state width="1483" height="212" key="GridCell.Tab.2.center/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621868305576" />
     <state width="2507" height="493" key="GridCell.Tab.2.center/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621532921068" />
-    <state width="1483" height="493" key="GridCell.Tab.2.left" timestamp="1621706745764">
+    <state width="1483" height="212" key="GridCell.Tab.2.left" timestamp="1621868305576">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1483" height="493" key="GridCell.Tab.2.left/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621706745764" />
+    <state width="1483" height="212" key="GridCell.Tab.2.left/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621868305576" />
     <state width="2507" height="493" key="GridCell.Tab.2.left/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621532921068" />
-    <state width="1483" height="493" key="GridCell.Tab.2.right" timestamp="1621706745764">
+    <state width="1483" height="212" key="GridCell.Tab.2.right" timestamp="1621868305576">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1483" height="493" key="GridCell.Tab.2.right/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621706745764" />
+    <state width="1483" height="212" key="GridCell.Tab.2.right/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621868305576" />
     <state width="2507" height="493" key="GridCell.Tab.2.right/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621532921068" />
+    <state x="398" y="134" width="894" height="596" key="find.popup" timestamp="1621782323881">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="398" y="134" width="894" height="596" key="find.popup/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621782323881" />
     <state x="2401" y="-207" width="1598" height="685" key="new project wizard" timestamp="1621529837798">
       <screen x="1920" y="-567" width="2560" height="1440" />
     </state>
     <state x="2401" y="-207" width="1598" height="685" key="new project wizard/1920.-567.2560.1440/0.0.1536.864@1920.-567.2560.1440" timestamp="1621529837798" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/spring-cloud-dubbo-provider-sample/src/main/java/org/xiang/HelloServiceImpl.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="347" y="0" width="840" height="862" key="search.everywhere.popup" timestamp="1621787011467">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="347" y="0" width="840" height="862" key="search.everywhere.popup/1920.-567.2560.1440/0.0.1536.864@0.0.1536.864" timestamp="1621787011467" />
   </component>
 </project>

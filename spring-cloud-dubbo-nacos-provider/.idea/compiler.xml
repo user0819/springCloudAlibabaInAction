@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-dubbo-nacos-provider-sample" />
+        <module name="spring-cloud-dubbo-nacos-provider-sample-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-boot-dubbo-nacos-provider-sample" target="1.8" />
+      <module name="spring-boot-dubbo-nacos-provider-sample-api" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
