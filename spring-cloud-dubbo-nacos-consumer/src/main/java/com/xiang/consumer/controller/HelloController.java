@@ -1,4 +1,4 @@
-package com.xiang.consumer;
+package com.xiang.consumer.controller;
 
 import com.xiang.IHelloService;
 import org.apache.dubbo.config.annotation.Reference;
