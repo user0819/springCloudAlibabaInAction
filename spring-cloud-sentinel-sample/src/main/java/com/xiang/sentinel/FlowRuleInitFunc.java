@@ -1,4 +1,4 @@
-package org.xiang.sentinel;
+package com.xiang.sentinel;
 
 import com.alibaba.csp.sentinel.init.InitFunc;
 import com.alibaba.csp.sentinel.slots.block.RuleConstant;
