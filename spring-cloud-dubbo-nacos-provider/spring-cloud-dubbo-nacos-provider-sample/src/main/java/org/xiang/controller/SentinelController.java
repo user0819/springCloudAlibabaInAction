@@ -6,6 +6,7 @@ import com.alibaba.nacos.common.util.UuidUtils;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+
 @RestController
 public class SentinelController {
 
@@ -18,5 +19,12 @@ public class SentinelController {
     public String myBlockHandler(BlockException e){
         return "这条路有点拥挤，要加油哦";
 
+    }
+
+
+
+    @GetMapping("/random2")
+    public String random2(){
+        return UuidUtils.generateUuid();
     }
 }
