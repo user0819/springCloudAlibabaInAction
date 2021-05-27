@@ -1,4 +1,4 @@
-package org.xiang;
+package org.xiang.controller;
 
 import com.xiang.IHelloService;
 import jdk.nashorn.internal.ir.annotations.Reference;

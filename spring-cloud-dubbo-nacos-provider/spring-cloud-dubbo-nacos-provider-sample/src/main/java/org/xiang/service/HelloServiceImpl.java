@@ -1,4 +1,4 @@
-package org.xiang;
+package org.xiang.service;
 
 import com.xiang.IHelloService;
 import org.apache.dubbo.config.annotation.Service;
